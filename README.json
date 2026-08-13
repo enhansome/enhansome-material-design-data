@@ -1,0 +1,509 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-android-ui",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-05T05:39:52Z",
+            "owner": "wasabeef",
+            "repo": "awesome-android-ui",
+            "stars": 57199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-MaterialDesign",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-01-06T10:37:47Z",
+            "owner": "lightSky",
+            "repo": "Awesome-MaterialDesign",
+            "stars": 5863
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-material",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-01-19T23:16:49Z",
+            "owner": "sachin1092",
+            "repo": "awesome-material",
+            "stars": 658
+          }
+        }
+      ],
+      "title": "Awesome 系列"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "material-dialogs",
+          "description": "MD 风格的弹框",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2023-02-06T02:57:13Z",
+            "owner": "afollestad",
+            "repo": "material-dialogs",
+            "stars": 19559
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "material-components-android",
+          "description": "MD 风格的组件集合",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-22T20:10:44Z",
+            "owner": "material-components",
+            "repo": "material-components-android",
+            "stars": 17366
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Material-Animations",
+          "description": "Material Design 动画效果",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2019-04-02T15:42:38Z",
+            "owner": "lgvalle",
+            "repo": "Material-Animations",
+            "stars": 13553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MaterialDesignLibrary",
+          "description": "Material Design 风格的各种控件",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-05-28T17:32:11Z",
+            "owner": "navasmdc",
+            "repo": "MaterialDesignLibrary",
+            "stars": 8920
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MaterialViewPager",
+          "description": "Material Design 风格的 ViewPager",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2018-10-12T01:11:20Z",
+            "owner": "florent37",
+            "repo": "MaterialViewPager",
+            "stars": 8075
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MaterialEditText",
+          "description": "Material Design 风格的输入框",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2026-03-28T03:48:37Z",
+            "owner": "rengwuxian",
+            "repo": "MaterialEditText",
+            "stars": 6076
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Material",
+          "description": "同上面那个库差不多，也是各种控件",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2023-05-28T15:35:01Z",
+            "owner": "rey5137",
+            "repo": "material",
+            "stars": 5950
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "material-calendarview",
+          "description": "Material Design 风格的日历",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-05-28T16:37:44Z",
+            "owner": "prolificinteractive",
+            "repo": "material-calendarview",
+            "stars": 5904
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MaterialSearchView",
+          "description": "Material Design 风格的搜索框",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-07-24T16:31:11Z",
+            "owner": "MiguelCatalan",
+            "repo": "MaterialSearchView",
+            "stars": 3809
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MaterialShowcaseView",
+          "description": "MD 风格的透明指示层",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-04-01T09:36:02Z",
+            "owner": "deano2390",
+            "repo": "MaterialShowcaseView",
+            "stars": 2708
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MaterialIntroView",
+          "description": "类似 Fabulous App MD 风格的功能引导库",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-08-18T06:09:16Z",
+            "owner": "iammert",
+            "repo": "MaterialIntroView",
+            "stars": 2420
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "material-ripple",
+          "description": "支持 api 14 以上的水波纹效果",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-06-11T07:50:55Z",
+            "owner": "balysv",
+            "repo": "material-ripple",
+            "stars": 2349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PagerSlidingTabStrip",
+          "description": "Material Design 风格的 TabLayout",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2019-10-16T11:33:41Z",
+            "owner": "jpardogo",
+            "repo": "PagerSlidingTabStrip",
+            "stars": 2169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "material-range-bar",
+          "description": "Material Design 风格的 RangeBar",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-12-09T06:32:19Z",
+            "owner": "oli107",
+            "repo": "material-range-bar",
+            "stars": 1662
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MaterialLoadingProgressBar",
+          "description": "Material Design 风格的进度指示器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-10-02T06:40:32Z",
+            "owner": "lsjwzh",
+            "repo": "MaterialLoadingProgressBar",
+            "stars": 1087
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "android-material-design-Open-source-projects",
+          "description": "Material Design 开源库集合",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-07-27T10:00:58Z",
+            "owner": "soyoungboy",
+            "repo": "android-material-design-Open-source-projects",
+            "stars": 499
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Material Design Library",
+          "description": "第三方的 Material Design",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "material-camera",
+          "description": "Material Design 风格的 Camera",
+          "children": []
+        }
+      ],
+      "title": "开源库"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "plaid",
+          "description": "非常给力的一个项目，有着很酷炫的动画效果",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2024-01-04T20:49:31Z",
+            "owner": "nickbutcher",
+            "repo": "plaid",
+            "stars": 16179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Universal Android Music Player",
+          "description": "谷歌的一款 Material Design 风格的音乐播放器播放器，非常的漂亮",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Kotlin",
+            "last_commit": "2026-01-09T15:17:00Z",
+            "owner": "android",
+            "repo": "uamp",
+            "stars": 13180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InstaMaterial",
+          "description": "Material Design 设计风格的 Instagram",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-09-30T19:55:47Z",
+            "owner": "frogermcs",
+            "repo": "InstaMaterial",
+            "stars": 4940
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simplifyreader",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-09-17T06:40:26Z",
+            "owner": "chentao0707",
+            "repo": "SimplifyReader",
+            "stars": 4547
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MusicDNA",
+          "description": "这款播放器真是炫瞎眼了",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2019-05-31T00:42:00Z",
+            "owner": "harjot-oberai",
+            "repo": "MusicDNA",
+            "stars": 2855
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Material-Movies",
+          "description": "Material Design 风格的视频播放器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2016-06-23T16:36:27Z",
+            "owner": "saulmm",
+            "repo": "Material-Movies",
+            "stars": 2409
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ListenerMusicPlayer",
+          "description": "一款优雅的遵循 Material Design 的开源音乐播放器",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2017-03-31T08:55:34Z",
+            "owner": "hefuyicoder",
+            "repo": "ListenerMusicPlayer",
+            "stars": 2392
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Elephant",
+          "description": "PHPHub 第三方客户端",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-01-07T14:36:44Z",
+            "owner": "Freelander",
+            "repo": "Elephant",
+            "stars": 909
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MaterialDesignExample",
+          "description": "最早出现的 Material Design 风格的app之一，用来演示 Material Design 控件的使用",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2017-08-11T16:38:48Z",
+            "owner": "chenyangcun",
+            "repo": "MaterialDesignExample",
+            "stars": 897
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MD-BiliBili",
+          "description": "基于 Material Design 的 BiliBili 第三方 Android 客户端",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2016-01-21T15:13:43Z",
+            "owner": "Qixingchen",
+            "repo": "MD-BiliBili",
+            "stars": 623
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MaterialHome",
+          "description": "一款图书展示类 app",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-12-12T03:06:05Z",
+            "owner": "hymanme",
+            "repo": "MaterialHome",
+            "stars": 340
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "meizhi",
+          "description": "妹纸，满满的福利",
+          "children": []
+        }
+      ],
+      "title": "开源项目"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "material-design-icons",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-31T03:10:49Z",
+            "owner": "google",
+            "repo": "material-design-icons",
+            "stars": 53765
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Google-Material-Icons-for-Sketch",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "图标"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "关于我"
+    },
+    {
+      "description": "感谢上面分享资料的各位大神！最后，如果你们觉得这份资料对你们能起到一点帮助，请给个 star ,谢谢！",
+      "items": [],
+      "title": "结尾"
+    },
+    {
+      "description": "以上内容采用 CC BY-NC-SA 3.0 进行许可, 转载请注明出处, 版权归本人及所有贡献者所有",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T22:00:32.032Z",
+    "original_repository": "Luosunce/material-design-data",
+    "original_repository_sha": "24b0545e7a29c2b49befeaf8ceb096dc0e9d9ffd",
+    "enhanced_repository": "enhansome/enhansome-material-design-data",
+    "enhanced_repository_description": null,
+    "title": "Awesome 最全面的 Material Design 学习资料 with stars"
+  }
+}
