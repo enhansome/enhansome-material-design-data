@@ -14,7 +14,7 @@
             "last_commit": "2026-06-05T05:39:52Z",
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 57205
+            "stars": 57214
           }
         },
         {
@@ -62,7 +62,7 @@
             "last_commit": "2023-02-06T02:57:13Z",
             "owner": "afollestad",
             "repo": "material-dialogs",
-            "stars": 19557
+            "stars": 19556
           }
         },
         {
@@ -76,7 +76,7 @@
             "last_commit": "2026-06-22T20:10:44Z",
             "owner": "material-components",
             "repo": "material-components-android",
-            "stars": 17367
+            "stars": 17365
           }
         },
         {
@@ -146,7 +146,7 @@
             "last_commit": "2023-05-28T15:35:01Z",
             "owner": "rey5137",
             "repo": "material",
-            "stars": 5949
+            "stars": 5948
           }
         },
         {
@@ -470,7 +470,7 @@
             "last_commit": "2026-08-14T03:02:13Z",
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53766
+            "stars": 53768
           }
         },
         {
@@ -499,7 +499,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T21:37:48.682Z",
+    "last_updated": "2026-08-15T21:33:30.725Z",
     "original_repository": "Luosunce/material-design-data",
     "original_repository_sha": "24b0545e7a29c2b49befeaf8ceb096dc0e9d9ffd",
     "enhanced_repository": "enhansome/enhansome-material-design-data",
