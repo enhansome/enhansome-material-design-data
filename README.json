@@ -14,7 +14,7 @@
             "last_commit": "2026-06-05T05:39:52Z",
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 57214
+            "stars": 57215
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2023-01-19T23:16:49Z",
             "owner": "sachin1092",
             "repo": "awesome-material",
-            "stars": 657
+            "stars": 656
           }
         }
       ],
@@ -76,7 +76,7 @@
             "last_commit": "2026-06-22T20:10:44Z",
             "owner": "material-components",
             "repo": "material-components-android",
-            "stars": 17365
+            "stars": 17368
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2019-04-02T15:42:38Z",
             "owner": "lgvalle",
             "repo": "Material-Animations",
-            "stars": 13552
+            "stars": 13544
           }
         },
         {
@@ -160,7 +160,7 @@
             "last_commit": "2023-05-28T16:37:44Z",
             "owner": "prolificinteractive",
             "repo": "material-calendarview",
-            "stars": 5904
+            "stars": 5902
           }
         },
         {
@@ -318,7 +318,7 @@
             "last_commit": "2026-01-09T15:17:00Z",
             "owner": "android",
             "repo": "uamp",
-            "stars": 13178
+            "stars": 13176
           }
         },
         {
@@ -360,7 +360,7 @@
             "last_commit": "2019-05-31T00:42:00Z",
             "owner": "harjot-oberai",
             "repo": "MusicDNA",
-            "stars": 2855
+            "stars": 2854
           }
         },
         {
@@ -470,7 +470,7 @@
             "last_commit": "2026-08-14T03:02:13Z",
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53768
+            "stars": 53772
           }
         },
         {
@@ -499,7 +499,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T21:33:30.725Z",
+    "last_updated": "2026-08-16T21:33:07.649Z",
     "original_repository": "Luosunce/material-design-data",
     "original_repository_sha": "24b0545e7a29c2b49befeaf8ceb096dc0e9d9ffd",
     "enhanced_repository": "enhansome/enhansome-material-design-data",
