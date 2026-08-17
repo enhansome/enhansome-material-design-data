@@ -25,24 +25,24 @@
 
 ## Awesome 系列
 
-* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) ⭐ 57,215 | 🐛 39 | 📅 2026-06-05
+* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) ⭐ 57,220 | 🐛 39 | 📅 2026-06-05
 * [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign) ⭐ 5,863 | 🐛 15 | 📅 2018-01-06
 * [awesome-material](https://github.com/sachin1092/awesome-material) ⭐ 656 | 🐛 1 | 📅 2023-01-19
 
 ## 开源库
 
 * [material-dialogs](https://github.com/afollestad/material-dialogs) ⚠️ Archived MD 风格的弹框
-* [material-components-android](https://github.com/material-components/material-components-android) ⭐ 17,368 | 🐛 804 | 🌐 Java | 📅 2026-06-22 MD 风格的组件集合
+* [material-components-android](https://github.com/material-components/material-components-android) ⭐ 17,369 | 🐛 804 | 🌐 Java | 📅 2026-06-22 MD 风格的组件集合
 * [Material-Animations](https://github.com/lgvalle/Material-Animations) ⭐ 13,544 | 🐛 20 | 🌐 Java | 📅 2019-04-02 Material Design 动画效果
 * [MaterialDesignLibrary](https://github.com/navasmdc/MaterialDesignLibrary) ⭐ 8,919 | 🐛 253 | 🌐 Java | 📅 2023-05-28 Material Design 风格的各种控件
 * [MaterialViewPager](https://github.com/florent37/MaterialViewPager) ⚠️ Archived Material Design 风格的 ViewPager
 * [MaterialEditText](https://github.com/rengwuxian/MaterialEditText) ⚠️ Archived Material Design 风格的输入框
 * [Material](https://github.com/rey5137/material) ⚠️ Archived 同上面那个库差不多，也是各种控件
-* [material-calendarview](https://github.com/prolificinteractive/material-calendarview) ⭐ 5,902 | 🐛 252 | 🌐 Java | 📅 2023-05-28 Material Design 风格的日历
+* [material-calendarview](https://github.com/prolificinteractive/material-calendarview) ⭐ 5,901 | 🐛 252 | 🌐 Java | 📅 2023-05-28 Material Design 风格的日历
 * [MaterialSearchView](https://github.com/MiguelCatalan/MaterialSearchView) ⭐ 3,809 | 🐛 165 | 🌐 Java | 📅 2020-07-24 Material Design 风格的搜索框
 * [MaterialShowcaseView](https://github.com/deano2390/MaterialShowcaseView) ⭐ 2,708 | 🐛 144 | 🌐 Java | 📅 2023-04-01 MD 风格的透明指示层
 * [MaterialIntroView](https://github.com/iammert/MaterialIntroView) ⭐ 2,420 | 🐛 56 | 🌐 Java | 📅 2021-08-18 类似 [Fabulous App](http://www.thefabulous.co/) MD 风格的功能引导库
-* [material-ripple](https://github.com/balysv/material-ripple) ⭐ 2,349 | 🐛 50 | 🌐 Java | 📅 2024-06-11 支持 api 14 以上的水波纹效果
+* [material-ripple](https://github.com/balysv/material-ripple) ⭐ 2,346 | 🐛 50 | 🌐 Java | 📅 2024-06-11 支持 api 14 以上的水波纹效果
 * [PagerSlidingTabStrip](https://github.com/jpardogo/PagerSlidingTabStrip) ⭐ 2,169 | 🐛 14 | 🌐 Java | 📅 2019-10-16 Material Design 风格的 TabLayout
 * [material-range-bar](https://github.com/oli107/material-range-bar) ⭐ 1,662 | 🐛 96 | 🌐 Java | 📅 2020-12-09 Material Design 风格的 RangeBar
 * [MaterialLoadingProgressBar](https://github.com/lsjwzh/MaterialLoadingProgressBar) ⭐ 1,087 | 🐛 7 | 🌐 Java | 📅 2020-10-02 Material Design 风格的进度指示器
@@ -52,7 +52,7 @@
 
 ## 开源项目
 
-* [plaid](https://github.com/nickbutcher/plaid) ⭐ 16,177 | 🐛 102 | 🌐 Kotlin | 📅 2024-01-04 非常给力的一个项目，有着很酷炫的动画效果
+* [plaid](https://github.com/nickbutcher/plaid) ⭐ 16,176 | 🐛 102 | 🌐 Kotlin | 📅 2024-01-04 非常给力的一个项目，有着很酷炫的动画效果
 * [Universal Android Music Player](https://github.com/googlesamples/android-UniversalMusicPlayer#universal-android-music-player-sample) ⚠️ Archived 谷歌的一款 Material Design 风格的音乐播放器播放器，非常的漂亮
 * [InstaMaterial](https://github.com/frogermcs/InstaMaterial) ⭐ 4,940 | 🐛 35 | 🌐 Java | 📅 2020-09-30 Material Design 设计风格的 Instagram
 * [Simplifyreader](https://github.com/chentao0707/SimplifyReader) ⭐ 4,545 | 🐛 41 | 🌐 Java | 📅 2021-09-17
@@ -75,7 +75,7 @@
 
 ## 图标
 
-* [material-design-icons](https://github.com/google/material-design-icons) ⭐ 53,772 | 🐛 421 | 📅 2026-08-14
+* [material-design-icons](https://github.com/google/material-design-icons) ⭐ 53,778 | 🐛 421 | 📅 2026-08-14
 * [Material UI Icons](https://www.materialui.co/icons)
 * [Material icons](https://material.io/icons/)
 * [Android Material 材料风格图标LOGO生成器](http://jaqen.me/mdpub/)
@@ -108,4 +108,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._

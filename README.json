@@ -14,7 +14,7 @@
             "last_commit": "2026-06-05T05:39:52Z",
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 57215
+            "stars": 57220
           }
         },
         {
@@ -62,7 +62,7 @@
             "last_commit": "2023-02-06T02:57:13Z",
             "owner": "afollestad",
             "repo": "material-dialogs",
-            "stars": 19556
+            "stars": 19555
           }
         },
         {
@@ -76,7 +76,7 @@
             "last_commit": "2026-06-22T20:10:44Z",
             "owner": "material-components",
             "repo": "material-components-android",
-            "stars": 17368
+            "stars": 17369
           }
         },
         {
@@ -160,7 +160,7 @@
             "last_commit": "2023-05-28T16:37:44Z",
             "owner": "prolificinteractive",
             "repo": "material-calendarview",
-            "stars": 5902
+            "stars": 5901
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2024-06-11T07:50:55Z",
             "owner": "balysv",
             "repo": "material-ripple",
-            "stars": 2349
+            "stars": 2346
           }
         },
         {
@@ -304,7 +304,7 @@
             "last_commit": "2024-01-04T20:49:31Z",
             "owner": "nickbutcher",
             "repo": "plaid",
-            "stars": 16177
+            "stars": 16176
           }
         },
         {
@@ -470,7 +470,7 @@
             "last_commit": "2026-08-14T03:02:13Z",
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53772
+            "stars": 53778
           }
         },
         {
@@ -499,7 +499,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T21:33:07.649Z",
+    "last_updated": "2026-08-17T21:37:36.628Z",
     "original_repository": "Luosunce/material-design-data",
     "original_repository_sha": "24b0545e7a29c2b49befeaf8ceb096dc0e9d9ffd",
     "enhanced_repository": "enhansome/enhansome-material-design-data",
