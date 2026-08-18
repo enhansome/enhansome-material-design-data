@@ -14,7 +14,7 @@
             "last_commit": "2026-06-05T05:39:52Z",
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 57220
+            "stars": 57237
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2019-04-02T15:42:38Z",
             "owner": "lgvalle",
             "repo": "Material-Animations",
-            "stars": 13544
+            "stars": 13543
           }
         },
         {
@@ -470,7 +470,7 @@
             "last_commit": "2026-08-14T03:02:13Z",
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53778
+            "stars": 53777
           }
         },
         {
@@ -499,7 +499,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T21:37:36.628Z",
+    "last_updated": "2026-08-18T21:36:17.043Z",
     "original_repository": "Luosunce/material-design-data",
     "original_repository_sha": "24b0545e7a29c2b49befeaf8ceb096dc0e9d9ffd",
     "enhanced_repository": "enhansome/enhansome-material-design-data",
