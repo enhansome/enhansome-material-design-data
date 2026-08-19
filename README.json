@@ -15,7 +15,7 @@
             "last_commit": "2026-06-05T05:39:52Z",
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 57248
+            "stars": 57253
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-06-22T20:10:44Z",
             "owner": "material-components",
             "repo": "material-components-android",
-            "stars": 17370
+            "stars": 17371
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2019-04-02T15:42:38Z",
             "owner": "lgvalle",
             "repo": "Material-Animations",
-            "stars": 13542
+            "stars": 13543
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2021-08-18T06:09:16Z",
             "owner": "iammert",
             "repo": "MaterialIntroView",
-            "stars": 2420
+            "stars": 2419
           }
         },
         {
@@ -372,7 +372,7 @@
             "last_commit": "2019-05-31T00:42:00Z",
             "owner": "harjot-oberai",
             "repo": "MusicDNA",
-            "stars": 2854
+            "stars": 2853
           }
         },
         {
@@ -483,7 +483,7 @@
             "last_commit": "2026-08-14T03:02:13Z",
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53782
+            "stars": 53783
           }
         }
       ],
@@ -491,7 +491,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:41:22.909Z",
+    "last_updated": "2026-08-19T21:37:40.273Z",
     "original_repository": "Luosunce/material-design-data",
     "original_repository_id": 76563331,
     "original_repository_sha": "24b0545e7a29c2b49befeaf8ceb096dc0e9d9ffd",
