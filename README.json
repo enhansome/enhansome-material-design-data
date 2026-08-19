@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28428729,
             "language": null,
             "last_commit": "2026-06-05T05:39:52Z",
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 57237
+            "stars": 57248
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26414854,
             "language": null,
             "last_commit": "2018-01-06T10:37:47Z",
             "owner": "lightSky",
             "repo": "Awesome-MaterialDesign",
-            "stars": 5863
+            "stars": 5864
           }
         },
         {
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29335836,
             "language": null,
             "last_commit": "2023-01-19T23:16:49Z",
             "owner": "sachin1092",
@@ -49,7 +52,7 @@
       "title": "Awesome 系列"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 26102180,
             "language": "Kotlin",
             "last_commit": "2023-02-06T02:57:13Z",
             "owner": "afollestad",
@@ -72,11 +76,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75643096,
             "language": "Java",
             "last_commit": "2026-06-22T20:10:44Z",
             "owner": "material-components",
             "repo": "material-components-android",
-            "stars": 17369
+            "stars": 17370
           }
         },
         {
@@ -86,11 +91,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31865176,
             "language": "Java",
             "last_commit": "2019-04-02T15:42:38Z",
             "owner": "lgvalle",
             "repo": "Material-Animations",
-            "stars": 13543
+            "stars": 13542
           }
         },
         {
@@ -100,11 +106,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24628923,
             "language": "Java",
             "last_commit": "2023-05-28T17:32:11Z",
             "owner": "navasmdc",
             "repo": "MaterialDesignLibrary",
-            "stars": 8919
+            "stars": 8918
           }
         },
         {
@@ -114,11 +121,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 34533286,
             "language": "Java",
             "last_commit": "2018-10-12T01:11:20Z",
             "owner": "florent37",
             "repo": "MaterialViewPager",
-            "stars": 8075
+            "stars": 8074
           }
         },
         {
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 25965034,
             "language": "Java",
             "last_commit": "2026-03-28T03:48:37Z",
             "owner": "rengwuxian",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 27764811,
             "language": "Java",
             "last_commit": "2023-05-28T15:35:01Z",
             "owner": "rey5137",
@@ -156,11 +166,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30562287,
             "language": "Java",
             "last_commit": "2023-05-28T16:37:44Z",
             "owner": "prolificinteractive",
             "repo": "material-calendarview",
-            "stars": 5901
+            "stars": 5900
           }
         },
         {
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42464201,
             "language": "Java",
             "last_commit": "2020-07-24T16:31:11Z",
             "owner": "MiguelCatalan",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40251005,
             "language": "Java",
             "last_commit": "2023-04-01T09:36:02Z",
             "owner": "deano2390",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50725235,
             "language": "Java",
             "last_commit": "2021-08-18T06:09:16Z",
             "owner": "iammert",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24117407,
             "language": "Java",
             "last_commit": "2024-06-11T07:50:55Z",
             "owner": "balysv",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25520515,
             "language": "Java",
             "last_commit": "2019-10-16T11:33:41Z",
             "owner": "jpardogo",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24868009,
             "language": "Java",
             "last_commit": "2020-12-09T06:32:19Z",
             "owner": "oli107",
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30398782,
             "language": "Java",
             "last_commit": "2020-10-02T06:40:32Z",
             "owner": "lsjwzh",
@@ -268,30 +286,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28917346,
             "language": null,
             "last_commit": "2020-07-27T10:00:58Z",
             "owner": "soyoungboy",
             "repo": "android-material-design-Open-source-projects",
             "stars": 499
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Material Design Library",
-          "description": "第三方的 Material Design",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "material-camera",
-          "description": "Material Design 风格的 Camera",
-          "children": []
         }
       ],
       "title": "开源库"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -300,11 +307,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45261969,
             "language": "Kotlin",
             "last_commit": "2024-01-04T20:49:31Z",
             "owner": "nickbutcher",
             "repo": "plaid",
-            "stars": 16176
+            "stars": 16177
           }
         },
         {
@@ -314,6 +322,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 31929346,
             "language": "Kotlin",
             "last_commit": "2026-01-09T15:17:00Z",
             "owner": "android",
@@ -328,6 +337,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26450553,
             "language": "Java",
             "last_commit": "2020-09-30T19:55:47Z",
             "owner": "frogermcs",
@@ -342,6 +352,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40877175,
             "language": "Java",
             "last_commit": "2021-09-17T06:40:26Z",
             "owner": "chentao0707",
@@ -356,6 +367,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57459873,
             "language": "Java",
             "last_commit": "2019-05-31T00:42:00Z",
             "owner": "harjot-oberai",
@@ -370,6 +382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30108534,
             "language": "Java",
             "last_commit": "2016-06-23T16:36:27Z",
             "owner": "saulmm",
@@ -384,6 +397,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81436215,
             "language": "Java",
             "last_commit": "2017-03-31T08:55:34Z",
             "owner": "hefuyicoder",
@@ -398,6 +412,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 70648181,
             "language": "Java",
             "last_commit": "2018-01-07T14:36:44Z",
             "owner": "Freelander",
@@ -412,6 +427,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37917515,
             "language": "Java",
             "last_commit": "2017-08-11T16:38:48Z",
             "owner": "chenyangcun",
@@ -426,6 +442,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37307451,
             "language": "Java",
             "last_commit": "2016-01-21T15:13:43Z",
             "owner": "Qixingchen",
@@ -440,24 +457,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63306297,
             "language": "Java",
             "last_commit": "2018-12-12T03:06:05Z",
             "owner": "hymanme",
             "repo": "MaterialHome",
             "stars": 340
           }
-        },
-        {
-          "node_type": "item",
-          "title": "meizhi",
-          "description": "妹纸，满满的福利",
-          "children": []
         }
       ],
       "title": "开源项目"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -466,41 +478,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24953448,
             "language": null,
             "last_commit": "2026-08-14T03:02:13Z",
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53777
+            "stars": 53782
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Google-Material-Icons-for-Sketch",
-          "description": null,
-          "children": []
         }
       ],
       "title": "图标"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "关于我"
-    },
-    {
-      "description": "感谢上面分享资料的各位大神！最后，如果你们觉得这份资料对你们能起到一点帮助，请给个 star ,谢谢！",
-      "items": [],
-      "title": "结尾"
-    },
-    {
-      "description": "以上内容采用 CC BY-NC-SA 3.0 进行许可, 转载请注明出处, 版权归本人及所有贡献者所有",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T21:36:17.043Z",
+    "last_updated": "2026-08-19T12:41:22.909Z",
     "original_repository": "Luosunce/material-design-data",
+    "original_repository_id": 76563331,
     "original_repository_sha": "24b0545e7a29c2b49befeaf8ceb096dc0e9d9ffd",
     "enhanced_repository": "enhansome/enhansome-material-design-data",
     "enhanced_repository_description": null,
