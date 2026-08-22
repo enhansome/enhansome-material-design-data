@@ -15,7 +15,7 @@
             "last_commit": "2026-06-05T05:39:52Z",
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 57268
+            "stars": 57290
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2023-02-06T02:57:13Z",
             "owner": "afollestad",
             "repo": "material-dialogs",
-            "stars": 19554
+            "stars": 19553
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-06-22T20:10:44Z",
             "owner": "material-components",
             "repo": "material-components-android",
-            "stars": 17368
+            "stars": 17367
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2019-04-02T15:42:38Z",
             "owner": "lgvalle",
             "repo": "Material-Animations",
-            "stars": 13543
+            "stars": 13544
           }
         },
         {
@@ -291,7 +291,7 @@
             "last_commit": "2020-07-27T10:00:58Z",
             "owner": "soyoungboy",
             "repo": "android-material-design-Open-source-projects",
-            "stars": 499
+            "stars": 500
           }
         }
       ],
@@ -342,7 +342,7 @@
             "last_commit": "2020-09-30T19:55:47Z",
             "owner": "frogermcs",
             "repo": "InstaMaterial",
-            "stars": 4940
+            "stars": 4939
           }
         },
         {
@@ -357,7 +357,7 @@
             "last_commit": "2021-09-17T06:40:26Z",
             "owner": "chentao0707",
             "repo": "SimplifyReader",
-            "stars": 4545
+            "stars": 4544
           }
         },
         {
@@ -483,7 +483,7 @@
             "last_commit": "2026-08-14T03:02:13Z",
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53798
+            "stars": 53804
           }
         }
       ],
@@ -491,7 +491,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T21:36:32.094Z",
+    "last_updated": "2026-08-22T21:33:51.894Z",
     "original_repository": "Luosunce/material-design-data",
     "original_repository_id": 76563331,
     "original_repository_sha": "24b0545e7a29c2b49befeaf8ceb096dc0e9d9ffd",
