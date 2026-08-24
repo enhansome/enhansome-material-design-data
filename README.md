@@ -4,7 +4,7 @@
 
 关于 Material Design 在这里我就不在多做介绍了，想必做Android开发的 都听过它的大名 ，甚至用过无数次了。Material Design 是以后 Android 的主流设计风格，现在已经越来越多的APP遵循 Material Design 的设计规范来进
 行开发，是每个 Android 开发者必学的基础技术。在此我收集了一份关于 Material Design 的学习资料以便大家学习，希望对你们有所帮助！
-这个项目我会在 Github：<https://github.com/Luosunce/material-design-data> ⭐ 1,904 | 🐛 0 | 🌐 Java | 📅 2023-03-16 上不定期更新，欢迎 star、follow.
+这个项目我会在 Github：<https://github.com/Luosunce/material-design-data> ⭐ 1,905 | 🐛 0 | 🌐 Java | 📅 2023-03-16 上不定期更新，欢迎 star、follow.
 
 > 感谢 [@GitHubDaily](http://weibo.com/GitHubDaily) 大力支持以及 [@G军仔](https://github.com/Freelander) 指点
 
@@ -25,14 +25,14 @@
 
 ## Awesome 系列
 
-* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) ⭐ 57,322 | 🐛 39 | 📅 2026-06-05
+* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) ⭐ 57,328 | 🐛 39 | 📅 2026-06-05
 * [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign) ⭐ 5,864 | 🐛 15 | 📅 2018-01-06
 * [awesome-material](https://github.com/sachin1092/awesome-material) ⭐ 656 | 🐛 1 | 📅 2026-08-21
 
 ## 开源库
 
 * [material-dialogs](https://github.com/afollestad/material-dialogs) ⚠️ Archived MD 风格的弹框
-* [material-components-android](https://github.com/material-components/material-components-android) ⭐ 17,370 | 🐛 804 | 🌐 Java | 📅 2026-06-22 MD 风格的组件集合
+* [material-components-android](https://github.com/material-components/material-components-android) ⭐ 17,371 | 🐛 804 | 🌐 Java | 📅 2026-06-22 MD 风格的组件集合
 * [Material-Animations](https://github.com/lgvalle/Material-Animations) ⭐ 13,544 | 🐛 20 | 🌐 Java | 📅 2019-04-02 Material Design 动画效果
 * [MaterialDesignLibrary](https://github.com/navasmdc/MaterialDesignLibrary) ⭐ 8,918 | 🐛 253 | 🌐 Java | 📅 2023-05-28 Material Design 风格的各种控件
 * [MaterialViewPager](https://github.com/florent37/MaterialViewPager) ⚠️ Archived Material Design 风格的 ViewPager
@@ -75,7 +75,7 @@
 
 ## 图标
 
-* [material-design-icons](https://github.com/google/material-design-icons) ⭐ 53,807 | 🐛 424 | 📅 2026-08-14
+* [material-design-icons](https://github.com/google/material-design-icons) ⭐ 53,810 | 🐛 424 | 📅 2026-08-14
 * [Material UI Icons](https://www.materialui.co/icons)
 * [Material icons](https://material.io/icons/)
 * [Android Material 材料风格图标LOGO生成器](http://jaqen.me/mdpub/)
