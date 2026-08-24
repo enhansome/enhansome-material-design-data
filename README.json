@@ -15,7 +15,7 @@
             "last_commit": "2026-06-05T05:39:52Z",
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 57311
+            "stars": 57322
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-06-22T20:10:44Z",
             "owner": "material-components",
             "repo": "material-components-android",
-            "stars": 17369
+            "stars": 17370
           }
         },
         {
@@ -491,7 +491,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T21:34:11.778Z",
+    "last_updated": "2026-08-24T14:07:24.078Z",
     "original_repository": "Luosunce/material-design-data",
     "original_repository_id": 76563331,
     "original_repository_sha": "24b0545e7a29c2b49befeaf8ceb096dc0e9d9ffd",
