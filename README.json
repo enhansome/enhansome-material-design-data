@@ -15,7 +15,7 @@
             "last_commit": "2026-06-05T05:39:52Z",
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 57334
+            "stars": 57346
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2018-01-06T10:37:47Z",
             "owner": "lightSky",
             "repo": "Awesome-MaterialDesign",
-            "stars": 5864
+            "stars": 5863
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2019-04-02T15:42:38Z",
             "owner": "lgvalle",
             "repo": "Material-Animations",
-            "stars": 13544
+            "stars": 13542
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2023-05-28T17:32:11Z",
             "owner": "navasmdc",
             "repo": "MaterialDesignLibrary",
-            "stars": 8918
+            "stars": 8916
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2018-10-12T01:11:20Z",
             "owner": "florent37",
             "repo": "MaterialViewPager",
-            "stars": 8073
+            "stars": 8072
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2023-05-28T16:37:44Z",
             "owner": "prolificinteractive",
             "repo": "material-calendarview",
-            "stars": 5900
+            "stars": 5899
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2020-07-24T16:31:11Z",
             "owner": "MiguelCatalan",
             "repo": "MaterialSearchView",
-            "stars": 3809
+            "stars": 3808
           }
         },
         {
@@ -312,7 +312,7 @@
             "last_commit": "2024-01-04T20:49:31Z",
             "owner": "nickbutcher",
             "repo": "plaid",
-            "stars": 16178
+            "stars": 16177
           }
         },
         {
@@ -327,7 +327,7 @@
             "last_commit": "2026-01-09T15:17:00Z",
             "owner": "android",
             "repo": "uamp",
-            "stars": 13175
+            "stars": 13174
           }
         },
         {
@@ -483,7 +483,7 @@
             "last_commit": "2026-08-14T03:02:13Z",
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53812
+            "stars": 53817
           }
         }
       ],
@@ -491,7 +491,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:05:42.615Z",
+    "last_updated": "2026-08-25T21:41:12.253Z",
     "original_repository": "Luosunce/material-design-data",
     "original_repository_id": 76563331,
     "original_repository_sha": "24b0545e7a29c2b49befeaf8ceb096dc0e9d9ffd",
