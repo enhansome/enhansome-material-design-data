@@ -15,7 +15,7 @@
             "last_commit": "2026-06-05T05:39:52Z",
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 57358
+            "stars": 57363
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2023-02-06T02:57:13Z",
             "owner": "afollestad",
             "repo": "material-dialogs",
-            "stars": 19555
+            "stars": 19554
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-06-22T20:10:44Z",
             "owner": "material-components",
             "repo": "material-components-android",
-            "stars": 17371
+            "stars": 17372
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2019-04-02T15:42:38Z",
             "owner": "lgvalle",
             "repo": "Material-Animations",
-            "stars": 13542
+            "stars": 13541
           }
         },
         {
@@ -342,7 +342,7 @@
             "last_commit": "2020-09-30T19:55:47Z",
             "owner": "frogermcs",
             "repo": "InstaMaterial",
-            "stars": 4939
+            "stars": 4938
           }
         },
         {
@@ -372,7 +372,7 @@
             "last_commit": "2019-05-31T00:42:00Z",
             "owner": "harjot-oberai",
             "repo": "MusicDNA",
-            "stars": 2853
+            "stars": 2852
           }
         },
         {
@@ -402,7 +402,7 @@
             "last_commit": "2017-03-31T08:55:34Z",
             "owner": "hefuyicoder",
             "repo": "ListenerMusicPlayer",
-            "stars": 2392
+            "stars": 2391
           }
         },
         {
@@ -417,7 +417,7 @@
             "last_commit": "2018-01-07T14:36:44Z",
             "owner": "Freelander",
             "repo": "Elephant",
-            "stars": 909
+            "stars": 908
           }
         },
         {
@@ -483,7 +483,7 @@
             "last_commit": "2026-08-14T03:02:13Z",
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53821
+            "stars": 53826
           }
         }
       ],
@@ -491,9 +491,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T00:46:12.699Z",
-    "original_repository": "Luosunce/material-design-data",
-    "original_repository_id": 76563331,
+    "last_updated": "2026-08-27T11:51:16.062Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 76563331,
+      "language": "Java",
+      "last_commit": "2023-03-16T17:24:28Z",
+      "owner": "Luosunce",
+      "repo": "material-design-data",
+      "stars": 1905
+    },
     "original_repository_sha": "24b0545e7a29c2b49befeaf8ceb096dc0e9d9ffd",
     "enhanced_repository": "enhansome/enhansome-material-design-data",
     "enhanced_repository_description": null,
