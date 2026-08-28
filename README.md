@@ -25,14 +25,14 @@
 
 ## Awesome 系列
 
-* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) ⭐ 57,363 | 🐛 39 | 📅 2026-06-05
+* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) ⭐ 57,377 | 🐛 39 | 📅 2026-06-05
 * [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign) ⭐ 5,863 | 🐛 15 | 📅 2018-01-06
 * [awesome-material](https://github.com/sachin1092/awesome-material) ⭐ 656 | 🐛 1 | 📅 2026-08-21
 
 ## 开源库
 
 * [material-dialogs](https://github.com/afollestad/material-dialogs) ⚠️ Archived MD 风格的弹框
-* [material-components-android](https://github.com/material-components/material-components-android) ⭐ 17,372 | 🐛 804 | 🌐 Java | 📅 2026-06-22 MD 风格的组件集合
+* [material-components-android](https://github.com/material-components/material-components-android) ⭐ 17,375 | 🐛 804 | 🌐 Java | 📅 2026-06-22 MD 风格的组件集合
 * [Material-Animations](https://github.com/lgvalle/Material-Animations) ⭐ 13,541 | 🐛 20 | 🌐 Java | 📅 2019-04-02 Material Design 动画效果
 * [MaterialDesignLibrary](https://github.com/navasmdc/MaterialDesignLibrary) ⭐ 8,916 | 🐛 253 | 🌐 Java | 📅 2023-05-28 Material Design 风格的各种控件
 * [MaterialViewPager](https://github.com/florent37/MaterialViewPager) ⚠️ Archived Material Design 风格的 ViewPager
@@ -42,7 +42,7 @@
 * [MaterialSearchView](https://github.com/MiguelCatalan/MaterialSearchView) ⭐ 3,808 | 🐛 165 | 🌐 Java | 📅 2020-07-24 Material Design 风格的搜索框
 * [MaterialShowcaseView](https://github.com/deano2390/MaterialShowcaseView) ⭐ 2,708 | 🐛 144 | 🌐 Java | 📅 2023-04-01 MD 风格的透明指示层
 * [MaterialIntroView](https://github.com/iammert/MaterialIntroView) ⭐ 2,419 | 🐛 56 | 🌐 Java | 📅 2021-08-18 类似 [Fabulous App](http://www.thefabulous.co/) MD 风格的功能引导库
-* [material-ripple](https://github.com/balysv/material-ripple) ⭐ 2,346 | 🐛 50 | 🌐 Java | 📅 2024-06-11 支持 api 14 以上的水波纹效果
+* [material-ripple](https://github.com/balysv/material-ripple) ⭐ 2,347 | 🐛 50 | 🌐 Java | 📅 2024-06-11 支持 api 14 以上的水波纹效果
 * [PagerSlidingTabStrip](https://github.com/jpardogo/PagerSlidingTabStrip) ⭐ 2,169 | 🐛 14 | 🌐 Java | 📅 2019-10-16 Material Design 风格的 TabLayout
 * [material-range-bar](https://github.com/oli107/material-range-bar) ⭐ 1,662 | 🐛 96 | 🌐 Java | 📅 2020-12-09 Material Design 风格的 RangeBar
 * [MaterialLoadingProgressBar](https://github.com/lsjwzh/MaterialLoadingProgressBar) ⭐ 1,087 | 🐛 7 | 🌐 Java | 📅 2020-10-02 Material Design 风格的进度指示器
@@ -75,7 +75,7 @@
 
 ## 图标
 
-* [material-design-icons](https://github.com/google/material-design-icons) ⭐ 53,826 | 🐛 426 | 📅 2026-08-14
+* [material-design-icons](https://github.com/google/material-design-icons) ⭐ 53,830 | 🐛 426 | 📅 2026-08-28
 * [Material UI Icons](https://www.materialui.co/icons)
 * [Material icons](https://material.io/icons/)
 * [Android Material 材料风格图标LOGO生成器](http://jaqen.me/mdpub/)
@@ -108,4 +108,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
