@@ -10,12 +10,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Android UI/UX libraries",
+            "homepage": null,
             "id": 28428729,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-06-05T05:39:52Z",
+            "open_issues": 39,
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 57391
+            "stars": 57392,
+            "topics": [
+              "android",
+              "awesome",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
         },
@@ -26,12 +35,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of material design libs and res.",
+            "homepage": null,
             "id": 26414854,
             "language": null,
+            "license": null,
             "last_commit": "2018-01-06T10:37:47Z",
+            "open_issues": 15,
             "owner": "lightSky",
             "repo": "Awesome-MaterialDesign",
-            "stars": 5863
+            "stars": 5863,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
         },
@@ -42,12 +56,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Google's material design libraries for different frameworks.",
+            "homepage": null,
             "id": 29335836,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-21T01:33:16Z",
+            "open_issues": 1,
             "owner": "sachin1092",
             "repo": "awesome-material",
-            "stars": 656
+            "stars": 656,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
         }
@@ -64,12 +83,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "😍 A beautiful, fluid, and extensible dialogs API for Kotlin & Android.",
+            "homepage": "https://af.codes",
             "id": 26102180,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2023-02-06T02:57:13Z",
+            "open_issues": 111,
             "owner": "afollestad",
             "repo": "material-dialogs",
-            "stars": 19554
+            "stars": 19554,
+            "topics": [
+              "alert",
+              "android",
+              "androidx",
+              "bottomsheets",
+              "dialogs",
+              "kotlin",
+              "material-design"
+            ]
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
         },
@@ -80,12 +112,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[MAINTENANCE MODE] Modular and customizable Material Design UI components for Android",
+            "homepage": null,
             "id": 75643096,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-22T20:10:44Z",
+            "open_issues": 804,
             "owner": "material-components",
             "repo": "material-components-android",
-            "stars": 17376
+            "stars": 17378,
+            "topics": [
+              "android",
+              "material-components",
+              "material-design"
+            ]
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
         },
@@ -96,12 +137,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Android Transition animations explanation with examples.",
+            "homepage": null,
             "id": 31865176,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2019-04-02T15:42:38Z",
+            "open_issues": 20,
             "owner": "lgvalle",
             "repo": "Material-Animations",
-            "stars": 13541
+            "stars": 13541,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
         },
@@ -112,12 +158,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a library with components of Android L to you use in android 2.2",
+            "homepage": null,
             "id": 24628923,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-05-28T17:32:11Z",
+            "open_issues": 253,
             "owner": "navasmdc",
             "repo": "MaterialDesignLibrary",
-            "stars": 8916
+            "stars": 8916,
+            "topics": [
+              "android",
+              "material-design"
+            ]
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
         },
@@ -128,12 +182,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Material Design ViewPager easy to use library",
+            "homepage": "https://www.fiches-plateau-moto.fr",
             "id": 34533286,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2018-10-12T01:11:20Z",
+            "open_issues": 183,
             "owner": "florent37",
             "repo": "MaterialViewPager",
-            "stars": 8072
+            "stars": 8072,
+            "topics": [
+              "android",
+              "java",
+              "kenburnsview",
+              "material",
+              "materialviewpager",
+              "parallax",
+              "scroll",
+              "toolbar",
+              "viewpager"
+            ]
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
         },
@@ -144,12 +213,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "EditText in Material Design",
+            "homepage": null,
             "id": 25965034,
             "language": "Java",
+            "license": null,
             "last_commit": "2026-03-28T03:48:37Z",
+            "open_issues": 195,
             "owner": "rengwuxian",
             "repo": "MaterialEditText",
-            "stars": 6075
+            "stars": 6075,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
         },
@@ -160,12 +234,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A library to bring fully animated Material Design components to pre-Lolipop Android. ",
+            "homepage": "http://rey5137.com/material/",
             "id": 27764811,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-05-28T15:35:01Z",
+            "open_issues": 214,
             "owner": "rey5137",
             "repo": "material",
-            "stars": 5948
+            "stars": 5948,
+            "topics": [
+              "android",
+              "java",
+              "material"
+            ]
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
         },
@@ -176,12 +259,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Material design back port of Android's CalendarView",
+            "homepage": "https://prolificinteractive.github.io/material-calendarview/",
             "id": 30562287,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2023-05-28T16:37:44Z",
+            "open_issues": 252,
             "owner": "prolificinteractive",
             "repo": "material-calendarview",
-            "stars": 5899
+            "stars": 5899,
+            "topics": [
+              "android",
+              "calendar",
+              "java",
+              "material"
+            ]
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
         },
@@ -192,12 +285,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cute library to implement SearchView in a Material Design Approach",
+            "homepage": "http://miguelcatalan.info/2015/09/23/MaterialSearchView/",
             "id": 42464201,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2020-07-24T16:31:11Z",
+            "open_issues": 165,
             "owner": "MiguelCatalan",
             "repo": "MaterialSearchView",
-            "stars": 3808
+            "stars": 3808,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
         },
@@ -208,12 +306,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Material Design themed ShowcaseView for Android",
+            "homepage": null,
             "id": 40251005,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-04-01T09:36:02Z",
+            "open_issues": 144,
             "owner": "deano2390",
             "repo": "MaterialShowcaseView",
-            "stars": 2708
+            "stars": 2708,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
         },
@@ -224,12 +327,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Material Intro View is a showcase android library.",
+            "homepage": null,
             "id": 50725235,
             "language": "Java",
+            "license": null,
             "last_commit": "2021-08-18T06:09:16Z",
+            "open_issues": 56,
             "owner": "iammert",
             "repo": "MaterialIntroView",
-            "stars": 2419
+            "stars": 2419,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
         },
@@ -240,12 +348,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[deprecated] Android L Ripple effect wrapper for Views",
+            "homepage": null,
             "id": 24117407,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-11T07:50:55Z",
+            "open_issues": 50,
             "owner": "balysv",
             "repo": "material-ripple",
-            "stars": 2347
+            "stars": 2347,
+            "topics": [
+              "android",
+              "java",
+              "material-ripple",
+              "ripple",
+              "wrapper"
+            ]
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
         },
@@ -256,12 +375,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An interactive indicator to navigate between the different pages of a ViewPager",
+            "homepage": null,
             "id": 25520515,
             "language": "Java",
+            "license": null,
             "last_commit": "2019-10-16T11:33:41Z",
+            "open_issues": 14,
             "owner": "jpardogo",
             "repo": "PagerSlidingTabStrip",
-            "stars": 2169
+            "stars": 2169,
+            "topics": [
+              "android",
+              "android-library",
+              "tab",
+              "tablayout",
+              "tabs",
+              "viewpager"
+            ]
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
         },
@@ -272,12 +403,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Android widget for selecting a range of values.",
+            "homepage": null,
             "id": 24868009,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2020-12-09T06:32:19Z",
+            "open_issues": 96,
             "owner": "oli107",
             "repo": "material-range-bar",
-            "stars": 1662
+            "stars": 1662,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
         },
@@ -288,12 +424,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MaterialLoadingProgressBar   provide a styled ProgressBar which looks  like SwipeRefreshLayout's loading indicator(support-v4  v21+)",
+            "homepage": null,
             "id": 30398782,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2020-10-02T06:40:32Z",
+            "open_issues": 7,
             "owner": "lsjwzh",
             "repo": "MaterialLoadingProgressBar",
-            "stars": 1087
+            "stars": 1087,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
         },
@@ -304,12 +445,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "android material design 风格项目整理",
+            "homepage": null,
             "id": 28917346,
             "language": null,
+            "license": null,
             "last_commit": "2020-07-27T10:00:58Z",
+            "open_issues": 2,
             "owner": "soyoungboy",
             "repo": "android-material-design-Open-source-projects",
-            "stars": 500
+            "stars": 500,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
         }
@@ -326,12 +472,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Android app which provides design news & inspiration as well as being an example of implementing material design.",
+            "homepage": null,
             "id": 45261969,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2024-01-04T20:49:31Z",
+            "open_issues": 102,
             "owner": "nickbutcher",
             "repo": "plaid",
-            "stars": 16177
+            "stars": 16177,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
         },
@@ -342,12 +493,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A sample audio app for Android",
+            "homepage": null,
             "id": 31929346,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-09T15:17:00Z",
+            "open_issues": 99,
             "owner": "android",
             "repo": "uamp",
-            "stars": 13174
+            "stars": 13174,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
         },
@@ -358,12 +514,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of Instagram with Material Design (originally based on Emmanuel Pacamalan's concept)",
+            "homepage": null,
             "id": 26450553,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2020-09-30T19:55:47Z",
+            "open_issues": 35,
             "owner": "frogermcs",
             "repo": "InstaMaterial",
-            "stars": 4938
+            "stars": 4938,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
         },
@@ -374,12 +535,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一款基于Google Material Design设计开发的Android客户端，包括新闻简读，图片浏览，视频爽看 ，音乐轻听以及二维码扫描五个子模块。项目采取的是MVP架构开发，由于还是摸索阶段，可能不是很规范。但基本上应该是这么个套路，至少我个人认为是这样的~恩，就是这样的！",
+            "homepage": null,
             "id": 40877175,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2021-09-17T06:40:26Z",
+            "open_issues": 41,
             "owner": "chentao0707",
             "repo": "SimplifyReader",
-            "stars": 4544
+            "stars": 4544,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
         },
@@ -390,12 +556,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Music Player for android that renders beautiful DNA(Visualization) of the currently playing music.",
+            "homepage": null,
             "id": 57459873,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2019-05-31T00:42:00Z",
+            "open_issues": 18,
             "owner": "harjot-oberai",
             "repo": "MusicDNA",
-            "stars": 2850
+            "stars": 2850,
+            "topics": [
+              "android",
+              "music-player",
+              "soundcloud",
+              "visualizer"
+            ]
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
         },
@@ -406,12 +582,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[Deprecated] An application about movies with material design",
+            "homepage": null,
             "id": 30108534,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2016-06-23T16:36:27Z",
+            "open_issues": 15,
             "owner": "saulmm",
             "repo": "Material-Movies",
-            "stars": 2409
+            "stars": 2409,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
         },
@@ -422,12 +603,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Grace Material Design Music Player",
+            "homepage": null,
             "id": 81436215,
             "language": "Java",
+            "license": null,
             "last_commit": "2017-03-31T08:55:34Z",
+            "open_issues": 21,
             "owner": "hefuyicoder",
             "repo": "ListenerMusicPlayer",
-            "stars": 2391
+            "stars": 2391,
+            "topics": [
+              "android-application",
+              "material-design",
+              "music-player",
+              "mvp-android",
+              "retrofit2-rxjava"
+            ]
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
         },
@@ -438,12 +630,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Elephant is PHPHub Community Android unofficial client, base on Material Design + MVP+RxJava+Retrofit .",
+            "homepage": null,
             "id": 70648181,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2018-01-07T14:36:44Z",
+            "open_issues": 7,
             "owner": "Freelander",
             "repo": "Elephant",
-            "stars": 908
+            "stars": 908,
+            "topics": [
+              "android",
+              "android-app",
+              "app",
+              "material-design",
+              "material-ui",
+              "rxandroid",
+              "rxjava"
+            ]
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
         },
@@ -454,12 +659,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "本APP用来演示Material Design控件的使用。",
+            "homepage": "http://www.aswifter.com/2015/07/02/Material-Design-Example-5/",
             "id": 37917515,
             "language": "Java",
+            "license": null,
             "last_commit": "2017-08-11T16:38:48Z",
+            "open_issues": 2,
             "owner": "chenyangcun",
             "repo": "MaterialDesignExample",
-            "stars": 897
+            "stars": 897,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
         },
@@ -470,12 +680,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Material Design 版 BiliBili Android 客户端",
+            "homepage": null,
             "id": 37307451,
             "language": "Java",
+            "license": null,
             "last_commit": "2016-01-21T15:13:43Z",
+            "open_issues": 2,
             "owner": "Qixingchen",
             "repo": "MD-BiliBili",
-            "stars": 623
+            "stars": 623,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
         },
@@ -486,12 +701,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一个基于 Material Design 风格设计的图书展示类App，豆瓣图书，在线电子书。",
+            "homepage": null,
             "id": 63306297,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2018-12-12T03:06:05Z",
+            "open_issues": 4,
             "owner": "hymanme",
             "repo": "MaterialHome",
-            "stars": 340
+            "stars": 340,
+            "topics": [
+              "api",
+              "book",
+              "douban-book",
+              "ebook",
+              "materialdesign",
+              "mvp",
+              "read",
+              "retrofit",
+              "rxjava"
+            ]
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
         }
@@ -508,12 +738,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Material Design icons by Google (Material Symbols)",
+            "homepage": "http://google.github.io/material-design-icons/",
             "id": 24953448,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T04:47:19Z",
+            "open_issues": 426,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53838
+            "stars": 53838,
+            "topics": [
+              "android",
+              "icons",
+              "ios",
+              "material",
+              "material-design",
+              "sprites",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
         }
@@ -522,15 +765,35 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:09:07.563Z",
+    "last_updated": "2026-08-29T04:28:00.073Z",
     "original_repository_info": {
       "archived": false,
+      "description": "关于 Material Design 的一切资料都在这里",
+      "homepage": null,
       "id": 76563331,
       "language": "Java",
+      "license": null,
       "last_commit": "2023-03-16T17:24:28Z",
+      "open_issues": 0,
       "owner": "Luosunce",
       "repo": "material-design-data",
-      "stars": 1905
+      "stars": 1905,
+      "topics": [
+        "android",
+        "android-library",
+        "android-material",
+        "animation",
+        "app-material",
+        "apps",
+        "awesome",
+        "material-design",
+        "material-icons",
+        "material-theme",
+        "material-ui",
+        "open-source",
+        "open-source-design",
+        "open-source-project"
+      ]
     },
     "original_repository_sha": "24b0545e7a29c2b49befeaf8ceb096dc0e9d9ffd",
     "enhanced_repository": "enhansome/enhansome-material-design-data",
