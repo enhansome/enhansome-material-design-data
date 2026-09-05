@@ -19,7 +19,7 @@
             "open_issues": 39,
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 57465,
+            "stars": 57469,
             "topics": [
               "android",
               "awesome",
@@ -92,7 +92,7 @@
             "open_issues": 111,
             "owner": "afollestad",
             "repo": "material-dialogs",
-            "stars": 19552,
+            "stars": 19551,
             "topics": [
               "alert",
               "android",
@@ -118,10 +118,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-06-22T20:10:44Z",
-            "open_issues": 806,
+            "open_issues": 807,
             "owner": "material-components",
             "repo": "material-components-android",
-            "stars": 17380,
+            "stars": 17383,
             "topics": [
               "android",
               "material-components",
@@ -167,7 +167,7 @@
             "open_issues": 253,
             "owner": "navasmdc",
             "repo": "MaterialDesignLibrary",
-            "stars": 8915,
+            "stars": 8914,
             "topics": [
               "android",
               "material-design"
@@ -191,7 +191,7 @@
             "open_issues": 183,
             "owner": "florent37",
             "repo": "MaterialViewPager",
-            "stars": 8071,
+            "stars": 8070,
             "topics": [
               "android",
               "java",
@@ -222,7 +222,7 @@
             "open_issues": 195,
             "owner": "rengwuxian",
             "repo": "MaterialEditText",
-            "stars": 6073,
+            "stars": 6072,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
@@ -357,7 +357,7 @@
             "open_issues": 50,
             "owner": "balysv",
             "repo": "material-ripple",
-            "stars": 2346,
+            "stars": 2344,
             "topics": [
               "android",
               "java",
@@ -502,7 +502,7 @@
             "open_issues": 99,
             "owner": "android",
             "repo": "uamp",
-            "stars": 13172,
+            "stars": 13171,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
@@ -591,7 +591,7 @@
             "open_issues": 15,
             "owner": "saulmm",
             "repo": "Material-Movies",
-            "stars": 2409,
+            "stars": 2408,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
@@ -747,7 +747,7 @@
             "open_issues": 427,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 53874,
+            "stars": 53881,
             "topics": [
               "android",
               "icons",
@@ -765,7 +765,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T23:01:55.163Z",
+    "last_updated": "2026-09-05T22:52:09.098Z",
     "original_repository_info": {
       "archived": false,
       "description": "关于 Material Design 的一切资料都在这里",
