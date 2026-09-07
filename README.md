@@ -25,7 +25,7 @@
 
 ## Awesome 系列
 
-* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) ⭐ 57,478 | 🐛 39 | 📅 2026-06-05
+* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) ⭐ 57,490 | 🐛 39 | 📅 2026-06-05
 * [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign) ⭐ 5,862 | 🐛 15 | 📅 2018-01-06
 * [awesome-material](https://github.com/sachin1092/awesome-material) ⭐ 656 | 🐛 1 | 📅 2026-08-21
 
@@ -56,7 +56,7 @@
 * [Universal Android Music Player](https://github.com/googlesamples/android-UniversalMusicPlayer#universal-android-music-player-sample) ⚠️ Archived 谷歌的一款 Material Design 风格的音乐播放器播放器，非常的漂亮
 * [InstaMaterial](https://github.com/frogermcs/InstaMaterial) ⭐ 4,937 | 🐛 35 | 🌐 Java | 📅 2020-09-30 Material Design 设计风格的 Instagram
 * [Simplifyreader](https://github.com/chentao0707/SimplifyReader) ⭐ 4,542 | 🐛 41 | 🌐 Java | 📅 2021-09-17
-* [MusicDNA](https://github.com/harjot-oberai/MusicDNA) ⭐ 2,851 | 🐛 18 | 🌐 Java | 📅 2019-05-31 这款播放器真是炫瞎眼了
+* [MusicDNA](https://github.com/harjot-oberai/MusicDNA) ⭐ 2,850 | 🐛 18 | 🌐 Java | 📅 2019-05-31 这款播放器真是炫瞎眼了
 * [Material-Movies](https://github.com/saulmm/Material-Movies) ⭐ 2,408 | 🐛 15 | 🌐 Java | 📅 2016-06-23 Material Design 风格的视频播放器
 * [ListenerMusicPlayer](https://github.com/hefuyicoder/ListenerMusicPlayer) ⭐ 2,389 | 🐛 21 | 🌐 Java | 📅 2017-03-31 一款优雅的遵循 Material Design 的开源音乐播放器
 * [Elephant](https://github.com/Freelander/Elephant) ⭐ 909 | 🐛 7 | 🌐 Java | 📅 2018-01-07 PHPHub 第三方客户端
@@ -75,7 +75,7 @@
 
 ## 图标
 
-* [material-design-icons](https://github.com/google/material-design-icons) ⭐ 53,887 | 🐛 428 | 📅 2026-09-04
+* [material-design-icons](https://github.com/google/material-design-icons) ⭐ 53,895 | 🐛 427 | 📅 2026-09-04
 * [Material UI Icons](https://www.materialui.co/icons)
 * [Material icons](https://material.io/icons/)
 * [Android Material 材料风格图标LOGO生成器](http://jaqen.me/mdpub/)
@@ -108,4 +108,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
