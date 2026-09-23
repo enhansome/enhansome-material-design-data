@@ -19,7 +19,7 @@
             "open_issues": 41,
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 57691,
+            "stars": 57701,
             "topics": [
               "android",
               "awesome",
@@ -44,7 +44,7 @@
             "open_issues": 15,
             "owner": "lightSky",
             "repo": "Awesome-MaterialDesign",
-            "stars": 5859,
+            "stars": 5858,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
@@ -92,7 +92,7 @@
             "open_issues": 111,
             "owner": "afollestad",
             "repo": "material-dialogs",
-            "stars": 19548,
+            "stars": 19547,
             "topics": [
               "alert",
               "android",
@@ -121,7 +121,7 @@
             "open_issues": 804,
             "owner": "material-components",
             "repo": "material-components-android",
-            "stars": 17397,
+            "stars": 17398,
             "topics": [
               "android",
               "material-components",
@@ -357,7 +357,7 @@
             "open_issues": 51,
             "owner": "balysv",
             "repo": "material-ripple",
-            "stars": 2343,
+            "stars": 2344,
             "topics": [
               "android",
               "java",
@@ -744,10 +744,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-09-18T02:15:08Z",
-            "open_issues": 428,
+            "open_issues": 427,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54013,
+            "stars": 54022,
             "topics": [
               "android",
               "icons",
@@ -765,7 +765,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T23:35:19.442Z",
+    "last_updated": "2026-09-23T23:39:17.536Z",
     "original_repository_info": {
       "archived": false,
       "description": "关于 Material Design 的一切资料都在这里",
