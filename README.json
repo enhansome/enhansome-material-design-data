@@ -19,7 +19,7 @@
             "open_issues": 41,
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 57720,
+            "stars": 57732,
             "topics": [
               "android",
               "awesome",
@@ -744,10 +744,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-09-25T02:19:04Z",
-            "open_issues": 427,
+            "open_issues": 426,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54032,
+            "stars": 54033,
             "topics": [
               "android",
               "icons",
@@ -765,7 +765,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T23:56:06.769Z",
+    "last_updated": "2026-09-26T23:35:02.342Z",
     "original_repository_info": {
       "archived": false,
       "description": "关于 Material Design 的一切资料都在这里",
