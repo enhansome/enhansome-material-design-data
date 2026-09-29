@@ -12,7 +12,7 @@
 
 * [Material Design 官网](https://material.google.com/)
 * [Material Design 中文版(极客学院)](http://wiki.jikexueyuan.com/project/material-design/)
-* [Material Design 最新中文版](https://github.com/zdhxiong/Material-Design-Chinese) ⭐ 554 | 🐛 1 | 🌐 PHP | 📅 2022-07-09
+* [Material Design 最新中文版](https://github.com/zdhxiong/Material-Design-Chinese) ⭐ 555 | 🐛 1 | 🌐 PHP | 📅 2022-07-09
 * [Android 5.0 文档](https://developer.android.com/training/material/index.html)
 * [开始学习 Materila Design](https://bboyfeiyu.gitbooks.io/android-tech-frontier/content/issue-8/%E5%BC%80%E5%A7%8B%E5%AD%A6%E4%B9%A0Material%20Design.html)
 * [Android Design Support Library 概览](http://blog.csdn.net/growth58/article/details/47972467) 一系列教程对 Material Design 的常用控件都做了很详细的讲解
@@ -25,7 +25,7 @@
 
 ## Awesome 系列
 
-* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) ⭐ 57,752 | 🐛 41 | 📅 2026-06-05
+* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) ⭐ 57,761 | 🐛 41 | 📅 2026-06-05
 * [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign) ⭐ 5,857 | 🐛 15 | 📅 2018-01-06
 * [awesome-material](https://github.com/sachin1092/awesome-material) ⭐ 659 | 🐛 1 | 📅 2026-08-21
 
@@ -33,8 +33,8 @@
 
 * [material-dialogs](https://github.com/afollestad/material-dialogs) ⚠️ Archived MD 风格的弹框
 * [material-components-android](https://github.com/material-components/material-components-android) ⭐ 17,402 | 🐛 804 | 🌐 Java | 📅 2026-09-14 MD 风格的组件集合
-* [Material-Animations](https://github.com/lgvalle/Material-Animations) ⭐ 13,544 | 🐛 21 | 🌐 Java | 📅 2019-04-02 Material Design 动画效果
-* [MaterialDesignLibrary](https://github.com/navasmdc/MaterialDesignLibrary) ⭐ 8,912 | 🐛 254 | 🌐 Java | 📅 2023-05-28 Material Design 风格的各种控件
+* [Material-Animations](https://github.com/lgvalle/Material-Animations) ⭐ 13,543 | 🐛 21 | 🌐 Java | 📅 2019-04-02 Material Design 动画效果
+* [MaterialDesignLibrary](https://github.com/navasmdc/MaterialDesignLibrary) ⭐ 8,910 | 🐛 254 | 🌐 Java | 📅 2023-05-28 Material Design 风格的各种控件
 * [MaterialViewPager](https://github.com/florent37/MaterialViewPager) ⚠️ Archived Material Design 风格的 ViewPager
 * [MaterialEditText](https://github.com/rengwuxian/MaterialEditText) ⚠️ Archived Material Design 风格的输入框
 * [Material](https://github.com/rey5137/material) ⚠️ Archived 同上面那个库差不多，也是各种控件
@@ -75,7 +75,7 @@
 
 ## 图标
 
-* [material-design-icons](https://github.com/google/material-design-icons) ⭐ 54,032 | 🐛 426 | 📅 2026-09-25
+* [material-design-icons](https://github.com/google/material-design-icons) ⭐ 54,040 | 🐛 426 | 📅 2026-09-25
 * [Material UI Icons](https://www.materialui.co/icons)
 * [Material icons](https://material.io/icons/)
 * [Android Material 材料风格图标LOGO生成器](http://jaqen.me/mdpub/)
@@ -108,4 +108,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
