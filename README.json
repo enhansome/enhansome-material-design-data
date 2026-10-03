@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "awesome-android-ui",
-          "description": null,
+          "description": "wasabeef/awesome-android-ui",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 41,
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 57803,
+            "stars": 57805,
             "topics": [
               "android",
               "awesome",
@@ -31,7 +31,7 @@
         {
           "node_type": "item",
           "title": "Awesome-MaterialDesign",
-          "description": null,
+          "description": "lightSky/Awesome-MaterialDesign",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -44,7 +44,7 @@
             "open_issues": 15,
             "owner": "lightSky",
             "repo": "Awesome-MaterialDesign",
-            "stars": 5857,
+            "stars": 5856,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
@@ -52,7 +52,7 @@
         {
           "node_type": "item",
           "title": "awesome-material",
-          "description": null,
+          "description": "sachin1092/awesome-material",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -121,7 +121,7 @@
             "open_issues": 804,
             "owner": "material-components",
             "repo": "material-components-android",
-            "stars": 17408,
+            "stars": 17409,
             "topics": [
               "android",
               "material-components",
@@ -146,7 +146,7 @@
             "open_issues": 21,
             "owner": "lgvalle",
             "repo": "Material-Animations",
-            "stars": 13534,
+            "stars": 13533,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
@@ -167,7 +167,7 @@
             "open_issues": 254,
             "owner": "navasmdc",
             "repo": "MaterialDesignLibrary",
-            "stars": 8910,
+            "stars": 8909,
             "topics": [
               "android",
               "material-design"
@@ -191,7 +191,7 @@
             "open_issues": 183,
             "owner": "florent37",
             "repo": "MaterialViewPager",
-            "stars": 8067,
+            "stars": 8066,
             "topics": [
               "android",
               "java",
@@ -243,7 +243,7 @@
             "open_issues": 214,
             "owner": "rey5137",
             "repo": "material",
-            "stars": 5945,
+            "stars": 5944,
             "topics": [
               "android",
               "java",
@@ -502,7 +502,7 @@
             "open_issues": 99,
             "owner": "android",
             "repo": "uamp",
-            "stars": 13169,
+            "stars": 13168,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
@@ -523,7 +523,7 @@
             "open_issues": 35,
             "owner": "frogermcs",
             "repo": "InstaMaterial",
-            "stars": 4934,
+            "stars": 4933,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
@@ -531,7 +531,7 @@
         {
           "node_type": "item",
           "title": "Simplifyreader",
-          "description": null,
+          "description": "chentao0707/SimplifyReader",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -734,7 +734,7 @@
         {
           "node_type": "item",
           "title": "material-design-icons",
-          "description": null,
+          "description": "google/material-design-icons",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -747,7 +747,7 @@
             "open_issues": 427,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54061,
+            "stars": 54063,
             "topics": [
               "android",
               "icons",
@@ -765,7 +765,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:27:15.878Z",
+    "last_updated": "2026-10-03T04:58:27.269Z",
     "original_repository_info": {
       "archived": false,
       "description": "关于 Material Design 的一切资料都在这里",
