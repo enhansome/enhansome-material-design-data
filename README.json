@@ -19,7 +19,7 @@
             "open_issues": 41,
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 57814,
+            "stars": 57825,
             "topics": [
               "android",
               "awesome",
@@ -92,7 +92,7 @@
             "open_issues": 111,
             "owner": "afollestad",
             "repo": "material-dialogs",
-            "stars": 19545,
+            "stars": 19544,
             "topics": [
               "alert",
               "android",
@@ -121,7 +121,7 @@
             "open_issues": 804,
             "owner": "material-components",
             "repo": "material-components-android",
-            "stars": 17411,
+            "stars": 17410,
             "topics": [
               "android",
               "material-components",
@@ -744,10 +744,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T02:22:12Z",
-            "open_issues": 426,
+            "open_issues": 427,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54067,
+            "stars": 54072,
             "topics": [
               "android",
               "icons",
@@ -765,7 +765,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T23:45:36.709Z",
+    "last_updated": "2026-10-04T23:56:30.914Z",
     "original_repository_info": {
       "archived": false,
       "description": "关于 Material Design 的一切资料都在这里",
