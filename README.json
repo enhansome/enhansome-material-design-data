@@ -19,7 +19,7 @@
             "open_issues": 41,
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 57849,
+            "stars": 57857,
             "topics": [
               "android",
               "awesome",
@@ -92,7 +92,7 @@
             "open_issues": 111,
             "owner": "afollestad",
             "repo": "material-dialogs",
-            "stars": 19544,
+            "stars": 19545,
             "topics": [
               "alert",
               "android",
@@ -118,10 +118,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-14T20:08:09Z",
-            "open_issues": 804,
+            "open_issues": 805,
             "owner": "material-components",
             "repo": "material-components-android",
-            "stars": 17411,
+            "stars": 17412,
             "topics": [
               "android",
               "material-components",
@@ -502,7 +502,7 @@
             "open_issues": 99,
             "owner": "android",
             "repo": "uamp",
-            "stars": 13166,
+            "stars": 13165,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
@@ -612,7 +612,7 @@
             "open_issues": 21,
             "owner": "hefuyicoder",
             "repo": "ListenerMusicPlayer",
-            "stars": 2387,
+            "stars": 2388,
             "topics": [
               "android-application",
               "material-design",
@@ -747,7 +747,7 @@
             "open_issues": 427,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54078,
+            "stars": 54085,
             "topics": [
               "android",
               "icons",
@@ -765,7 +765,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T00:39:32.409Z",
+    "last_updated": "2026-10-08T00:57:49.182Z",
     "original_repository_info": {
       "archived": false,
       "description": "关于 Material Design 的一切资料都在这里",
@@ -777,7 +777,7 @@
       "open_issues": 0,
       "owner": "Luosunce",
       "repo": "material-design-data",
-      "stars": 1904,
+      "stars": 1903,
       "topics": [
         "android",
         "android-library",
