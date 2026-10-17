@@ -19,7 +19,7 @@
             "open_issues": 42,
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 57984,
+            "stars": 58002,
             "topics": [
               "android",
               "awesome",
@@ -92,7 +92,7 @@
             "open_issues": 111,
             "owner": "afollestad",
             "repo": "material-dialogs",
-            "stars": 19537,
+            "stars": 19536,
             "topics": [
               "alert",
               "android",
@@ -121,7 +121,7 @@
             "open_issues": 805,
             "owner": "material-components",
             "repo": "material-components-android",
-            "stars": 17418,
+            "stars": 17421,
             "topics": [
               "android",
               "material-components",
@@ -146,7 +146,7 @@
             "open_issues": 21,
             "owner": "lgvalle",
             "repo": "Material-Animations",
-            "stars": 13527,
+            "stars": 13526,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
@@ -167,7 +167,7 @@
             "open_issues": 254,
             "owner": "navasmdc",
             "repo": "MaterialDesignLibrary",
-            "stars": 8909,
+            "stars": 8908,
             "topics": [
               "android",
               "material-design"
@@ -222,7 +222,7 @@
             "open_issues": 195,
             "owner": "rengwuxian",
             "repo": "MaterialEditText",
-            "stars": 6070,
+            "stars": 6071,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
@@ -294,7 +294,7 @@
             "open_issues": 165,
             "owner": "MiguelCatalan",
             "repo": "MaterialSearchView",
-            "stars": 3806,
+            "stars": 3807,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
@@ -433,7 +433,7 @@
             "open_issues": 7,
             "owner": "lsjwzh",
             "repo": "MaterialLoadingProgressBar",
-            "stars": 1086,
+            "stars": 1087,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
@@ -502,7 +502,7 @@
             "open_issues": 99,
             "owner": "android",
             "repo": "uamp",
-            "stars": 13158,
+            "stars": 13157,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
@@ -523,7 +523,7 @@
             "open_issues": 35,
             "owner": "frogermcs",
             "repo": "InstaMaterial",
-            "stars": 4932,
+            "stars": 4933,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
@@ -591,7 +591,7 @@
             "open_issues": 15,
             "owner": "saulmm",
             "repo": "Material-Movies",
-            "stars": 2406,
+            "stars": 2407,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
@@ -612,7 +612,7 @@
             "open_issues": 21,
             "owner": "hefuyicoder",
             "repo": "ListenerMusicPlayer",
-            "stars": 2388,
+            "stars": 2390,
             "topics": [
               "android-application",
               "material-design",
@@ -747,7 +747,7 @@
             "open_issues": 429,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54120,
+            "stars": 54122,
             "topics": [
               "android",
               "icons",
@@ -765,7 +765,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T23:33:02.782Z",
+    "last_updated": "2026-10-17T23:06:06.350Z",
     "original_repository_info": {
       "archived": false,
       "description": "关于 Material Design 的一切资料都在这里",
