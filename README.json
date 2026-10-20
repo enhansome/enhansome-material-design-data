@@ -19,7 +19,7 @@
             "open_issues": 43,
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 58039,
+            "stars": 58054,
             "topics": [
               "android",
               "awesome",
@@ -92,7 +92,7 @@
             "open_issues": 111,
             "owner": "afollestad",
             "repo": "material-dialogs",
-            "stars": 19535,
+            "stars": 19536,
             "topics": [
               "alert",
               "android",
@@ -118,10 +118,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-10-16T19:16:37Z",
-            "open_issues": 804,
+            "open_issues": 805,
             "owner": "material-components",
             "repo": "material-components-android",
-            "stars": 17421,
+            "stars": 17423,
             "topics": [
               "android",
               "material-components",
@@ -502,7 +502,7 @@
             "open_issues": 99,
             "owner": "android",
             "repo": "uamp",
-            "stars": 13158,
+            "stars": 13159,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
@@ -523,7 +523,7 @@
             "open_issues": 35,
             "owner": "frogermcs",
             "repo": "InstaMaterial",
-            "stars": 4933,
+            "stars": 4934,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
@@ -565,7 +565,7 @@
             "open_issues": 18,
             "owner": "harjot-oberai",
             "repo": "MusicDNA",
-            "stars": 2849,
+            "stars": 2848,
             "topics": [
               "android",
               "music-player",
@@ -747,7 +747,7 @@
             "open_issues": 429,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54130,
+            "stars": 54136,
             "topics": [
               "android",
               "icons",
@@ -765,7 +765,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T00:17:47.065Z",
+    "last_updated": "2026-10-20T23:50:30.190Z",
     "original_repository_info": {
       "archived": false,
       "description": "关于 Material Design 的一切资料都在这里",
