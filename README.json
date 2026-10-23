@@ -19,7 +19,7 @@
             "open_issues": 43,
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 58090,
+            "stars": 58105,
             "topics": [
               "android",
               "awesome",
@@ -121,7 +121,7 @@
             "open_issues": 805,
             "owner": "material-components",
             "repo": "material-components-android",
-            "stars": 17427,
+            "stars": 17429,
             "topics": [
               "android",
               "material-components",
@@ -167,7 +167,7 @@
             "open_issues": 254,
             "owner": "navasmdc",
             "repo": "MaterialDesignLibrary",
-            "stars": 8908,
+            "stars": 8909,
             "topics": [
               "android",
               "material-design"
@@ -222,7 +222,7 @@
             "open_issues": 195,
             "owner": "rengwuxian",
             "repo": "MaterialEditText",
-            "stars": 6070,
+            "stars": 6071,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
@@ -357,7 +357,7 @@
             "open_issues": 51,
             "owner": "balysv",
             "repo": "material-ripple",
-            "stars": 2341,
+            "stars": 2342,
             "topics": [
               "android",
               "java",
@@ -384,7 +384,7 @@
             "open_issues": 14,
             "owner": "jpardogo",
             "repo": "PagerSlidingTabStrip",
-            "stars": 2164,
+            "stars": 2163,
             "topics": [
               "android",
               "android-library",
@@ -481,7 +481,7 @@
             "open_issues": 102,
             "owner": "nickbutcher",
             "repo": "plaid",
-            "stars": 16161,
+            "stars": 16162,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
@@ -502,7 +502,7 @@
             "open_issues": 99,
             "owner": "android",
             "repo": "uamp",
-            "stars": 13160,
+            "stars": 13161,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
@@ -565,7 +565,7 @@
             "open_issues": 18,
             "owner": "harjot-oberai",
             "repo": "MusicDNA",
-            "stars": 2848,
+            "stars": 2847,
             "topics": [
               "android",
               "music-player",
@@ -591,7 +591,7 @@
             "open_issues": 15,
             "owner": "saulmm",
             "repo": "Material-Movies",
-            "stars": 2406,
+            "stars": 2407,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
@@ -743,11 +743,11 @@
             "id": 24953448,
             "language": null,
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T02:26:05Z",
+            "last_commit": "2026-10-23T02:18:57Z",
             "open_issues": 429,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54145,
+            "stars": 54150,
             "topics": [
               "android",
               "icons",
@@ -765,7 +765,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T23:58:12.511Z",
+    "last_updated": "2026-10-23T23:50:42.904Z",
     "original_repository_info": {
       "archived": false,
       "description": "关于 Material Design 的一切资料都在这里",
