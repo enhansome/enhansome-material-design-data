@@ -25,20 +25,20 @@
 
 ## Awesome 系列
 
-* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) ⭐ 58,171 | 🐛 44 | 📅 2026-06-05
+* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) ⭐ 58,189 | 🐛 44 | 📅 2026-06-05
 * [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign) ⭐ 5,854 | 🐛 15 | 📅 2018-01-06
 * [awesome-material](https://github.com/sachin1092/awesome-material) ⭐ 658 | 🐛 1 | 📅 2026-08-21
 
 ## 开源库
 
 * [material-dialogs](https://github.com/afollestad/material-dialogs) ⚠️ Archived MD 风格的弹框
-* [material-components-android](https://github.com/material-components/material-components-android) ⭐ 17,433 | 🐛 805 | 🌐 Java | 📅 2026-10-16 MD 风格的组件集合
-* [Material-Animations](https://github.com/lgvalle/Material-Animations) ⭐ 13,529 | 🐛 21 | 🌐 Java | 📅 2019-04-02 Material Design 动画效果
-* [MaterialDesignLibrary](https://github.com/navasmdc/MaterialDesignLibrary) ⭐ 8,911 | 🐛 254 | 🌐 Java | 📅 2023-05-28 Material Design 风格的各种控件
+* [material-components-android](https://github.com/material-components/material-components-android) ⭐ 17,435 | 🐛 805 | 🌐 Java | 📅 2026-10-16 MD 风格的组件集合
+* [Material-Animations](https://github.com/lgvalle/Material-Animations) ⭐ 13,528 | 🐛 21 | 🌐 Java | 📅 2019-04-02 Material Design 动画效果
+* [MaterialDesignLibrary](https://github.com/navasmdc/MaterialDesignLibrary) ⭐ 8,910 | 🐛 254 | 🌐 Java | 📅 2023-05-28 Material Design 风格的各种控件
 * [MaterialViewPager](https://github.com/florent37/MaterialViewPager) ⚠️ Archived Material Design 风格的 ViewPager
 * [MaterialEditText](https://github.com/rengwuxian/MaterialEditText) ⚠️ Archived Material Design 风格的输入框
 * [Material](https://github.com/rey5137/material) ⚠️ Archived 同上面那个库差不多，也是各种控件
-* [material-calendarview](https://github.com/prolificinteractive/material-calendarview) ⭐ 5,895 | 🐛 252 | 🌐 Java | 📅 2023-05-28 Material Design 风格的日历
+* [material-calendarview](https://github.com/prolificinteractive/material-calendarview) ⭐ 5,893 | 🐛 252 | 🌐 Java | 📅 2023-05-28 Material Design 风格的日历
 * [MaterialSearchView](https://github.com/MiguelCatalan/MaterialSearchView) ⭐ 3,804 | 🐛 165 | 🌐 Java | 📅 2020-07-24 Material Design 风格的搜索框
 * [MaterialShowcaseView](https://github.com/deano2390/MaterialShowcaseView) ⭐ 2,704 | 🐛 144 | 🌐 Java | 📅 2023-04-01 MD 风格的透明指示层
 * [MaterialIntroView](https://github.com/iammert/MaterialIntroView) ⭐ 2,418 | 🐛 56 | 🌐 Java | 📅 2021-08-18 类似 [Fabulous App](http://www.thefabulous.co/) MD 风格的功能引导库
@@ -56,9 +56,9 @@
 * [Universal Android Music Player](https://github.com/googlesamples/android-UniversalMusicPlayer#universal-android-music-player-sample) ⚠️ Archived 谷歌的一款 Material Design 风格的音乐播放器播放器，非常的漂亮
 * [InstaMaterial](https://github.com/frogermcs/InstaMaterial) ⭐ 4,934 | 🐛 35 | 🌐 Java | 📅 2020-09-30 Material Design 设计风格的 Instagram
 * [Simplifyreader](https://github.com/chentao0707/SimplifyReader) ⭐ 4,534 | 🐛 41 | 🌐 Java | 📅 2021-09-17
-* [MusicDNA](https://github.com/harjot-oberai/MusicDNA) ⭐ 2,847 | 🐛 18 | 🌐 Java | 📅 2019-05-31 这款播放器真是炫瞎眼了
+* [MusicDNA](https://github.com/harjot-oberai/MusicDNA) ⭐ 2,845 | 🐛 18 | 🌐 Java | 📅 2019-05-31 这款播放器真是炫瞎眼了
 * [Material-Movies](https://github.com/saulmm/Material-Movies) ⭐ 2,407 | 🐛 15 | 🌐 Java | 📅 2016-06-23 Material Design 风格的视频播放器
-* [ListenerMusicPlayer](https://github.com/hefuyicoder/ListenerMusicPlayer) ⭐ 2,390 | 🐛 21 | 🌐 Java | 📅 2017-03-31 一款优雅的遵循 Material Design 的开源音乐播放器
+* [ListenerMusicPlayer](https://github.com/hefuyicoder/ListenerMusicPlayer) ⭐ 2,389 | 🐛 21 | 🌐 Java | 📅 2017-03-31 一款优雅的遵循 Material Design 的开源音乐播放器
 * [Elephant](https://github.com/Freelander/Elephant) ⭐ 907 | 🐛 7 | 🌐 Java | 📅 2018-01-07 PHPHub 第三方客户端
 * [MaterialDesignExample](https://github.com/chenyangcun/MaterialDesignExample) ⭐ 896 | 🐛 2 | 🌐 Java | 📅 2017-08-11 最早出现的 Material Design 风格的app之一，用来演示 Material Design 控件的使用
 * [MD-BiliBili](https://github.com/Qixingchen/MD-BiliBili) ⭐ 622 | 🐛 2 | 🌐 Java | 📅 2016-01-21 基于 Material Design 的 BiliBili 第三方 Android 客户端
@@ -75,7 +75,7 @@
 
 ## 图标
 
-* [material-design-icons](https://github.com/google/material-design-icons) ⭐ 54,168 | 🐛 430 | 📅 2026-10-23
+* [material-design-icons](https://github.com/google/material-design-icons) ⭐ 54,174 | 🐛 429 | 📅 2026-10-23
 * [Material UI Icons](https://www.materialui.co/icons)
 * [Material icons](https://material.io/icons/)
 * [Android Material 材料风格图标LOGO生成器](http://jaqen.me/mdpub/)
@@ -108,4 +108,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._

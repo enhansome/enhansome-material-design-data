@@ -19,7 +19,7 @@
             "open_issues": 44,
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 58171,
+            "stars": 58189,
             "topics": [
               "android",
               "awesome",
@@ -121,7 +121,7 @@
             "open_issues": 805,
             "owner": "material-components",
             "repo": "material-components-android",
-            "stars": 17433,
+            "stars": 17435,
             "topics": [
               "android",
               "material-components",
@@ -146,7 +146,7 @@
             "open_issues": 21,
             "owner": "lgvalle",
             "repo": "Material-Animations",
-            "stars": 13529,
+            "stars": 13528,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
@@ -167,7 +167,7 @@
             "open_issues": 254,
             "owner": "navasmdc",
             "repo": "MaterialDesignLibrary",
-            "stars": 8911,
+            "stars": 8910,
             "topics": [
               "android",
               "material-design"
@@ -191,7 +191,7 @@
             "open_issues": 183,
             "owner": "florent37",
             "repo": "MaterialViewPager",
-            "stars": 8062,
+            "stars": 8060,
             "topics": [
               "android",
               "java",
@@ -222,7 +222,7 @@
             "open_issues": 195,
             "owner": "rengwuxian",
             "repo": "MaterialEditText",
-            "stars": 6072,
+            "stars": 6071,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
@@ -268,7 +268,7 @@
             "open_issues": 252,
             "owner": "prolificinteractive",
             "repo": "material-calendarview",
-            "stars": 5895,
+            "stars": 5893,
             "topics": [
               "android",
               "calendar",
@@ -565,7 +565,7 @@
             "open_issues": 18,
             "owner": "harjot-oberai",
             "repo": "MusicDNA",
-            "stars": 2847,
+            "stars": 2845,
             "topics": [
               "android",
               "music-player",
@@ -612,7 +612,7 @@
             "open_issues": 21,
             "owner": "hefuyicoder",
             "repo": "ListenerMusicPlayer",
-            "stars": 2390,
+            "stars": 2389,
             "topics": [
               "android-application",
               "material-design",
@@ -744,10 +744,10 @@
             "language": null,
             "license": "Apache-2.0",
             "last_commit": "2026-10-23T02:18:57Z",
-            "open_issues": 430,
+            "open_issues": 429,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54168,
+            "stars": 54174,
             "topics": [
               "android",
               "icons",
@@ -765,7 +765,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T00:23:52.793Z",
+    "last_updated": "2026-10-28T00:29:04.141Z",
     "original_repository_info": {
       "archived": false,
       "description": "关于 Material Design 的一切资料都在这里",
