@@ -19,7 +19,7 @@
             "open_issues": 44,
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 58567,
+            "stars": 58582,
             "topics": [
               "android",
               "awesome",
@@ -44,7 +44,7 @@
             "open_issues": 15,
             "owner": "lightSky",
             "repo": "Awesome-MaterialDesign",
-            "stars": 5849,
+            "stars": 5847,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
@@ -92,7 +92,7 @@
             "open_issues": 111,
             "owner": "afollestad",
             "repo": "material-dialogs",
-            "stars": 19529,
+            "stars": 19528,
             "topics": [
               "alert",
               "android",
@@ -121,7 +121,7 @@
             "open_issues": 804,
             "owner": "material-components",
             "repo": "material-components-android",
-            "stars": 17466,
+            "stars": 17469,
             "topics": [
               "android",
               "material-components",
@@ -146,7 +146,7 @@
             "open_issues": 21,
             "owner": "lgvalle",
             "repo": "Material-Animations",
-            "stars": 13523,
+            "stars": 13522,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
@@ -243,7 +243,7 @@
             "open_issues": 214,
             "owner": "rey5137",
             "repo": "material",
-            "stars": 5937,
+            "stars": 5936,
             "topics": [
               "android",
               "java",
@@ -481,7 +481,7 @@
             "open_issues": 102,
             "owner": "nickbutcher",
             "repo": "plaid",
-            "stars": 16154,
+            "stars": 16153,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
@@ -668,7 +668,7 @@
             "open_issues": 2,
             "owner": "chenyangcun",
             "repo": "MaterialDesignExample",
-            "stars": 896,
+            "stars": 895,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
@@ -689,7 +689,7 @@
             "open_issues": 2,
             "owner": "Qixingchen",
             "repo": "MD-BiliBili",
-            "stars": 622,
+            "stars": 621,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
@@ -747,7 +747,7 @@
             "open_issues": 431,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54334,
+            "stars": 54340,
             "topics": [
               "android",
               "icons",
@@ -765,7 +765,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T02:16:13.582Z",
+    "last_updated": "2026-11-21T02:09:56.371Z",
     "original_repository_info": {
       "archived": false,
       "description": "关于 Material Design 的一切资料都在这里",
