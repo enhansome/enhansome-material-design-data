@@ -19,7 +19,7 @@
             "open_issues": 44,
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 58582,
+            "stars": 58606,
             "topics": [
               "android",
               "awesome",
@@ -502,7 +502,7 @@
             "open_issues": 99,
             "owner": "android",
             "repo": "uamp",
-            "stars": 13157,
+            "stars": 13156,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
@@ -565,7 +565,7 @@
             "open_issues": 18,
             "owner": "harjot-oberai",
             "repo": "MusicDNA",
-            "stars": 2849,
+            "stars": 2850,
             "topics": [
               "android",
               "music-player",
@@ -747,7 +747,7 @@
             "open_issues": 431,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54340,
+            "stars": 54350,
             "topics": [
               "android",
               "icons",
@@ -765,7 +765,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T02:09:56.371Z",
+    "last_updated": "2026-11-22T01:13:27.070Z",
     "original_repository_info": {
       "archived": false,
       "description": "关于 Material Design 的一切资料都在这里",
