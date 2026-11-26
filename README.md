@@ -25,15 +25,15 @@
 
 ## Awesome 系列
 
-* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) ⭐ 58,662 | 🐛 44 | 📅 2026-06-05
+* [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) ⭐ 58,676 | 🐛 44 | 📅 2026-06-05
 * [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign) ⭐ 5,845 | 🐛 15 | 📅 2018-01-06
 * [awesome-material](https://github.com/sachin1092/awesome-material) ⭐ 657 | 🐛 1 | 📅 2026-08-21
 
 ## 开源库
 
 * [material-dialogs](https://github.com/afollestad/material-dialogs) ⚠️ Archived MD 风格的弹框
-* [material-components-android](https://github.com/material-components/material-components-android) ⭐ 17,477 | 🐛 805 | 🌐 Java | 📅 2026-11-18 MD 风格的组件集合
-* [Material-Animations](https://github.com/lgvalle/Material-Animations) ⭐ 13,522 | 🐛 21 | 🌐 Java | 📅 2019-04-02 Material Design 动画效果
+* [material-components-android](https://github.com/material-components/material-components-android) ⭐ 17,478 | 🐛 805 | 🌐 Java | 📅 2026-11-25 MD 风格的组件集合
+* [Material-Animations](https://github.com/lgvalle/Material-Animations) ⭐ 13,520 | 🐛 21 | 🌐 Java | 📅 2019-04-02 Material Design 动画效果
 * [MaterialDesignLibrary](https://github.com/navasmdc/MaterialDesignLibrary) ⭐ 8,907 | 🐛 254 | 🌐 Java | 📅 2023-05-28 Material Design 风格的各种控件
 * [MaterialViewPager](https://github.com/florent37/MaterialViewPager) ⚠️ Archived Material Design 风格的 ViewPager
 * [MaterialEditText](https://github.com/rengwuxian/MaterialEditText) ⚠️ Archived Material Design 风格的输入框
@@ -46,7 +46,7 @@
 * [PagerSlidingTabStrip](https://github.com/jpardogo/PagerSlidingTabStrip) ⭐ 2,162 | 🐛 14 | 🌐 Java | 📅 2019-10-16 Material Design 风格的 TabLayout
 * [material-range-bar](https://github.com/oli107/material-range-bar) ⭐ 1,660 | 🐛 96 | 🌐 Java | 📅 2020-12-09 Material Design 风格的 RangeBar
 * [MaterialLoadingProgressBar](https://github.com/lsjwzh/MaterialLoadingProgressBar) ⭐ 1,086 | 🐛 7 | 🌐 Java | 📅 2020-10-02 Material Design 风格的进度指示器
-* [android-material-design-Open-source-projects](https://github.com/soyoungboy/android-material-design-Open-source-projects) ⭐ 498 | 🐛 2 | 📅 2020-07-27 Material Design 开源库集合
+* [android-material-design-Open-source-projects](https://github.com/soyoungboy/android-material-design-Open-source-projects) ⭐ 497 | 🐛 2 | 📅 2020-07-27 Material Design 开源库集合
 * [Material Design Library](https://github.com/DenisMondon/material-design-library) 第三方的 Material Design
 * [material-camera](https://github.com/afollestad/material-camera) Material Design 风格的 Camera
 
@@ -75,7 +75,7 @@
 
 ## 图标
 
-* [material-design-icons](https://github.com/google/material-design-icons) ⭐ 54,362 | 🐛 430 | 📅 2026-10-23
+* [material-design-icons](https://github.com/google/material-design-icons) ⭐ 54,372 | 🐛 430 | 📅 2026-10-23
 * [Material UI Icons](https://www.materialui.co/icons)
 * [Material icons](https://material.io/icons/)
 * [Android Material 材料风格图标LOGO生成器](http://jaqen.me/mdpub/)
@@ -108,4 +108,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
