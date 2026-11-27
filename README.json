@@ -19,7 +19,7 @@
             "open_issues": 44,
             "owner": "wasabeef",
             "repo": "awesome-android-ui",
-            "stars": 58676,
+            "stars": 58688,
             "topics": [
               "android",
               "awesome",
@@ -92,7 +92,7 @@
             "open_issues": 111,
             "owner": "afollestad",
             "repo": "material-dialogs",
-            "stars": 19526,
+            "stars": 19525,
             "topics": [
               "alert",
               "android",
@@ -121,7 +121,7 @@
             "open_issues": 805,
             "owner": "material-components",
             "repo": "material-components-android",
-            "stars": 17478,
+            "stars": 17480,
             "topics": [
               "android",
               "material-components",
@@ -146,7 +146,7 @@
             "open_issues": 21,
             "owner": "lgvalle",
             "repo": "Material-Animations",
-            "stars": 13520,
+            "stars": 13521,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
@@ -167,7 +167,7 @@
             "open_issues": 254,
             "owner": "navasmdc",
             "repo": "MaterialDesignLibrary",
-            "stars": 8907,
+            "stars": 8906,
             "topics": [
               "android",
               "material-design"
@@ -191,7 +191,7 @@
             "open_issues": 183,
             "owner": "florent37",
             "repo": "MaterialViewPager",
-            "stars": 8054,
+            "stars": 8055,
             "topics": [
               "android",
               "java",
@@ -243,7 +243,7 @@
             "open_issues": 214,
             "owner": "rey5137",
             "repo": "material",
-            "stars": 5935,
+            "stars": 5934,
             "topics": [
               "android",
               "java",
@@ -268,7 +268,7 @@
             "open_issues": 252,
             "owner": "prolificinteractive",
             "repo": "material-calendarview",
-            "stars": 5890,
+            "stars": 5889,
             "topics": [
               "android",
               "calendar",
@@ -309,13 +309,13 @@
             "description": "A Material Design themed ShowcaseView for Android",
             "homepage": null,
             "id": 40251005,
-            "language": "Java",
+            "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2023-04-01T09:36:02Z",
-            "open_issues": 144,
+            "last_commit": "2026-11-26T21:24:28Z",
+            "open_issues": 0,
             "owner": "deano2390",
             "repo": "MaterialShowcaseView",
-            "stars": 2701,
+            "stars": 2700,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
@@ -481,7 +481,7 @@
             "open_issues": 102,
             "owner": "nickbutcher",
             "repo": "plaid",
-            "stars": 16151,
+            "stars": 16149,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
@@ -502,7 +502,7 @@
             "open_issues": 99,
             "owner": "android",
             "repo": "uamp",
-            "stars": 13155,
+            "stars": 13154,
             "topics": []
           },
           "first_seen": "2026-08-28T05:21:44.887Z"
@@ -747,7 +747,7 @@
             "open_issues": 430,
             "owner": "google",
             "repo": "material-design-icons",
-            "stars": 54372,
+            "stars": 54370,
             "topics": [
               "android",
               "icons",
@@ -765,7 +765,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T03:30:24.601Z",
+    "last_updated": "2026-11-27T03:36:48.493Z",
     "original_repository_info": {
       "archived": false,
       "description": "关于 Material Design 的一切资料都在这里",
